@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "897042841576",
+    "project_id": "midterm-b7d52",
+    "storage_bucket": "midterm-b7d52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897042841576:android:fb57f85eecc81c25ca2e5d",
+        "android_client_info": {
+          "package_name": "com.nailIndustries.midterm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897042841576-n501ntccmt395sv5ha57usftsvq4rq6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN6JWbdhah2fY8W9FOitbFUC40iE0azRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897042841576-n501ntccmt395sv5ha57usftsvq4rq6k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
